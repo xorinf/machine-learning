@@ -1,0 +1,12 @@
+{
+    "Tom": {
+        "name": "Tom",
+        "address": "Uppal",
+        "phno": 9397939110
+    },
+    "Jerry": {
+        "name": "Jerry",
+        "address": "NGRI",
+        "phno": 9397339110
+    }
+}
